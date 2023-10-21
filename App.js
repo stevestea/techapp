@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.tieude}>xinchao</Text>
+      <Text>privet</Text>
       <Button></Button>
     </View>
   );
